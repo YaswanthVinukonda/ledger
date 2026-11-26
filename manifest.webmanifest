@@ -1,0 +1,17 @@
+{
+ "name": "Ledger — Expense tracker",
+ "short_name": "Ledger",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0c0d10",
+ "theme_color": "#ff5a36",
+ "icons": [
+  {
+   "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0BAMAAADP4xsBAAAAGFBMVEX///////7/49z/iW//Wjf/Wjb/WjX/UiyxmTGsAAADIElEQVR42u2ZQU9TQRDHZ4oHL6+7Ww5cpIVK4sEWMC8cSUTC1RgjH89PYIgXL0YiiRyhLRW8WShyNd3dVqMeZDw0NW192Nlmq5d5x5e+X6azs//5zy7uwqyeHAha0IIWtKAFLWhBC1rQgha0oAX9X9C3bnhPbtKXqKdD23JhYlTnZhq0TWuT/3BaM+FoKu/byWibXujgZey1GGSw9bXgCqHqBasEOqcuFN2tM8urVQpFo2OiKTTXtMhGv3eBUSv2hvMiTxHkibmOZAEMH42nXDJuAQDVDT9q1Mzqo30AwO0bZCoLnVReAnS4xY32WV2zo77SruMMN9+tvSeX7GW83nruwXKjNq3DvGaL6oEnfpVYdZyprnP3M3688AG+B5TgD/WVbjMTkr+kwOouMhPSO9BhO8dnCndmri0F7krluXqNwfs9S7izcq3aoVHTDJXPSSsQtKDF4rAfw1GnqdA43pFRxUKr3PJo0OexojZ+Z330zZvGQhw0bSyOTZU719+ioLG32TRAbmg1a9uvoqDVQlMDzaVDFtX4ZMnFSIgGgN6dF1B41BiYik86TkIAgCp7bbjIrQ48Qr5gI6DRKYLe20sDdKwHgyNmTetTbXSqnChrff5yJElR0N2GdgDkP65Flyfs9FVDBU+73CmXrqNPu7RopcuMTmhmdlH3pR9zKjqaCn1z71d1bHT+gdMAqFaa8bfM2bo3RnVLf7XuwfJEBgmSim0DbhQHW4aWbYyoyQHg2Xa5nD78LU/dcx2lN9oEIPmyO9RlqPjOxED73uOmxp+1od7oiuh0BDQlh9V2P/zBq/R1JB+CRzod8yEn9+KgrT76POaedCxj5qkzK89Hs3Oqf54daRk4BC1oQU+QhInzDQftlZ5ivmFdQ1wF9x2semZCTOihqucmJNlyYeRsh5YZdbcUlGz0S+z7xqtlHxR0ocoe7pK0hOy40XSzHWtmb8TTsvPsexm7ssm/l4Fk3nXa3KjvPm0E+BBs7RzPc9Ehd2AAYGor3GRTzYQdxpnW1EdzEy2OARC9FrSgBS1oQQta0IIWtKAFLWhBC/rfoX8BK2DzkFgdmdIAAAAASUVORK5CYII=",
+   "sizes": "180x180",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
